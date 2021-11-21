@@ -6,13 +6,13 @@ Hey, everyone！
 
 Simple functions of program:
 
-0x1,
+## 0x1 ##
 scan the target port 445 of the windows system. If it is open, start trying to load the user name and password dictionary for brute force cracking
 
-0x2,
+## 0x2 ##
 if the crack is successful, it will try to execute the remote command.
 
-0x3,
+## 0x3 ##
 there are four ways to execute commands:
 0, execute the remote CMD command (All of this can be customized in the source file)
 1. Execute nc.exe (bind shell)
