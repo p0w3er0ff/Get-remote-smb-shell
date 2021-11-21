@@ -14,6 +14,7 @@ if the crack is successful, it will try to execute the remote command.
 
 ## 0x3 ##
 there are four ways to execute commands:
+
 0, execute the remote CMD command (All of this can be customized in the source file)
 1. Execute nc.exe (bind shell)
 2. Execute MSF bind shell
