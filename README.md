@@ -20,7 +20,7 @@ Environmental dependency:
 sudo gem install ruby_smb open-uri http
 
 Target dependency:
-1. The remote system needs to enable admin $sharing.
+1. The remote system needs to enable admin$ sharing.
 2. The target did not turn on the firewall (Windows 7 / windows 10 passed the test)
 
 
