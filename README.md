@@ -23,9 +23,7 @@ If the above command is executed successfully, you can get the remote command ou
 
 ## 0x4 ##
 Environmental dependency:
-
 1, nc.exe
-
 2, sudo gem install ruby_smb open-uri http
 
 
