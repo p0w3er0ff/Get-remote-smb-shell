@@ -21,6 +21,7 @@ there are four ways to execute commands:
 
 If the above command is executed successfully, you can get the remote command output result or shell or MSF meterpreter
 
+## 0x4 ##
 Environmental dependency:
 sudo gem install ruby_smb open-uri http
 
@@ -28,7 +29,7 @@ Target dependency:
 1. The remote system needs to enable admin$ sharing.
 2. The target did not turn on the firewall (Windows 7 / windows 10 passed the test)
 
-
+## 0x5 ##
 Description warning：
 All programs and codes are only used for testing and learning
 Any comments or suggestions are welcome ..
