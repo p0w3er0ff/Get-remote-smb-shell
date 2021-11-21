@@ -15,7 +15,7 @@ if the crack is successful, it will try to execute the remote command.
 ## 0x3 ##
 there are four ways to execute commands:
 
-0, execute the remote CMD command (All of this can be customized in the source file)
+0. Execute the remote CMD command (All of this can be customized in the source file)
 1. Execute nc.exe (bind shell)
 2. Execute MSF bind shell
 3. Execute MSF reverse shell
@@ -25,10 +25,8 @@ If the above command is executed successfully, you can get the remote command ou
 ## 0x4 ##
 Environmental dependency:
 
-1, nc.exe
-
-2, sudo gem install ruby_smb open-uri http
-
+0. sudo gem install ruby_smb open-uri http
+1. nc.exe (netcat for windows platform)
 
 
 Target dependency:
